@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @Vishal8707
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Vishal8707/Vishal8707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 

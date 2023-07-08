@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Vishal8707&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
-🔭 I’m currently working on Netflix Clone<br><br>🌱 I’m currently learning DSA<br><br>💬 Ask me about Anything, Ready to help<br><br>📫 How to reach me 360vishalsharma.mech@gmail.com
+🔭 I’m currently working on Netflix Clone<br><br>🌱 I’m currently learning DSA<br><br>👨‍💻 All of my projects are available at (coming soon)<br><br>💬  Ask me about JavaScript, Node.js, MongoDB and React<br><br>📫 How to reach me 360vishalsharma.mech@gmail.com
 
 
 ## 🌐 Socials:

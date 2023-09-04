@@ -26,8 +26,7 @@
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishal8707&theme=nightowl&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vishal8707&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ---
 
